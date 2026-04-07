@@ -264,7 +264,7 @@
     <channel id="662a622b5e2370000800f392">
         <display-name>Faites entrer l'accusé</display-name>
         <lcn>400</lcn>
-        <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG.png"/>
+        <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/colorLogoPNG_1775550450554.png"/>
     </channel>
     <channel id="66f55d0b5e4a6e0008c2b920">
         <display-name>Enquêtes Criminelles</display-name>
@@ -11744,6 +11744,11 @@ Mais au fond, peu nombreux sont ceux qui connaissent vraiment Buenos Aires…</d
         <desc>Un homme plaque sa petite amie de longue date et découvre que c’est une super-héroïne. Et elle veut se venger.</desc>
         <icon src="https://images.pluto.tv/series/606eda875426cf001a3a8b95/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260407194654 +0000" stop="20260407212448 +0000">
+        <title>Attack on Titan</title>
+        <desc>Alors que l'eau viable s'épuise sur Terre, une mission est envoyée sur Titan.</desc>
+        <icon src="https://images.pluto.tv/series/69382f9d0c94b0607811fca3/tile_1765289886845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c3472a51a2050008dad272" start="20260407143007 +0000" stop="20260407162538 +0000">
         <title>Boy A</title>
         <desc>Jack Burridge, condamné pour le meurtre d'un enfant, trouve un emploi de livreur. Un journal local découvre son passé et Jack se retrouve à essayer de faire face à la colère et à la crainte pour la sécurité de ses enfants.</desc>
@@ -16085,6 +16090,11 @@ Nobita persuade Doraemon de l’emmener dans le futur pour savoir qui deviendra 
         <title>Manipulation : la voisine d'à côté</title>
         <desc>Alors que Doug a une liaison avec Lena, la jeune femme qui a loué la maison voisine de la sienne pour l'été, la mort suspecte du mari de cette dernière révèle l'existence d'une assurance vie conséquente.</desc>
         <icon src="https://images.pluto.tv/series/693983e80c94b0607884271f/tile_1765379086411.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260407231342 +0000" stop="20260408010542 +0000">
+        <title>A Mother's Fury</title>
+        <desc>Barbara O'Brien, une mère catholique irlandaise, voit sa vie basculer lorsque son fils, un étudiant de première année à l'université, est impliqué dans un tragique incident de bizutage.</desc>
+        <icon src="https://images.pluto.tv/series/6458bcecf2a541001b3951ce/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260407180900 +0000" stop="20260407204921 +0000">
         <title>Amistad</title>
@@ -21295,6 +21305,11 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
         <title>Jailbreak</title>
         <desc>Un ex‑inspecteur emprisonné découvre qu’un détenu contrôle la prison avec la complicité du directeur et des gardiens. Rapidement intégré à cet empire criminel, il devient un rouage essentiel du réseau opérant derrière les barreaux.</desc>
         <icon src="https://images.pluto.tv/series/698083c6e090dedcb2ea6964/tile_1771252422405.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260408040056 +0000" stop="20260408053556 +0000">
+        <title>Warning: Do Not Play</title>
+        <desc>Une réalisatrice de film d’horreur en devenir est à la recherche du sujet de son premier film. Quand un de ses amis lui apprend l’existence supposée d’un film tourné par un fantôme, elle est immédiatement fascinée.</desc>
+        <icon src="https://images.pluto.tv/series/64538bfcf2a541001b24d86d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c9260ac0222700089ee62b" start="20260407230000 +0000" stop="20260407233000 +0000">
         <title>Family Club</title>
@@ -30100,7 +30115,7 @@ kalachnikovs, ses vendettas et sa fameuse mafia albanaise.</desc>
     <programme channel="662a622b5e2370000800f392" start="20260408090740 +0000" stop="20260408110000 +0000">
         <title>Faites entrer l'accusé</title>
         <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/featuredImage_1775550450554.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6683cd2fca74680008772545" start="20260408064548 +0000" stop="20260408073519 +0000">
         <title>Forensic Investigators</title>
