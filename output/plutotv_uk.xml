@@ -1959,7 +1959,7 @@ proving too much.</desc>
     <programme channel="655b7cbb2c46f300086f0afa" start="20261021050000 +0000" stop="20261021053000 +0000">
         <title>Trick Shot Cabaret</title>
         <desc>Enjoy a special Trick Shot Cabaret featuring 1985 World Champion Dennis Taylor, showcasing skill, flair and snooker entertainment.</desc>
-        <icon src="https://images.pluto.tv/series/6a4f7a4f3630c7ab4a21fa32/tile_1792545280971.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6a4f7a4f3630c7ab4a21fa32/tile_1792555967830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655b7cbb2c46f300086f0afa" start="20261021053000 +0000" stop="20261021120000 +0000">
         <title>Snooker 900</title>
@@ -7269,6 +7269,11 @@ documentaries…</desc>
         <title>Noah</title>
         <desc>Russell Crowe stars as Noah in the timeless story of courage, sacrifice, and hope. This visually stunning, action-adventure is hailed as "one of the most unforgettable Biblical epics ever put on film." *Richard Roeper, Chicago-Sun-Times</desc>
         <icon src="https://images.pluto.tv/series/677fa26b87694e26992f4bcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ad8d3a31b95267e225e4e09" start="20261021113733 +0000" stop="20261021135833 +0000">
+        <title>Runaway Jury</title>
+        <desc>In this suspenseful thriller, a high-priced and ruthless jury "consultant" will stop at nothing to secure a verdict on an explosive trial.</desc>
+        <icon src="https://images.pluto.tv/series/60643014e52b47001bb06d69/tile_1766803321371.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c363c2411c5ca053f198f97" start="20261021054856 +0000" stop="20261021073256 +0000">
         <title>Empire Records</title>
@@ -21611,6 +21616,11 @@ unexplained as the darkness starts to come to life.</desc>
         <desc>The latest Rugby World Cup action.</desc>
         <icon src="https://images.pluto.tv/series/6888f1638eef10068f2d7f2c/tile_1753805157172.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66f137cb483d460008ece053" start="20261021205500 +0000" stop="20261021232300 +0000">
+        <title>World Rugby Nations Cup 2026</title>
+        <desc>From Clarke Stadium in Edmonton, Alberta.</desc>
+        <icon src="https://images.pluto.tv/series/6a96b83ce530723cda38dfc1/tile_1788262460998.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="66fd37885049580008d295b6" start="20261021134500 +0000" stop="20261021171700 +0000">
         <title>Disc Golf Pro Tour</title>
         <desc>The top professionals compete for prize money on the Disc Golf Pro Tour.</desc>
@@ -27303,8 +27313,18 @@ make itself known with dramatic effect</desc>
     </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021200000 +0000" stop="20261021201100 +0000">
         <title>The Walking Dead Universe</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6a1ea2d1eddc28f7681e518e/featuredImage_1780491937944.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Join Daryl, Michonne, the Clarks and others from the world of The Walking Dead. Enjoy cast interviews, BTS moments, and more!</desc>
+        <icon src="https://images.pluto.tv/series/6a7f200fb1765d7e43d0570f/tile_1786716176114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021200000 +0000" stop="20261021201100 +0000">
+        <title>The Walking Dead Universe</title>
+        <desc>Join Daryl, Michonne, the Clarks and others from the world of The Walking Dead. Enjoy cast interviews, BTS moments, and more!</desc>
+        <icon src="https://images.pluto.tv/series/6a7f200fb1765d7e43d0570f/tile_1786716176114.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021201100 +0000" stop="20261021210000 +0000">
+        <title>The Walking Dead</title>
+        <desc>Shane makes a deadly sacrifice which leads to unusual behaviour and self-distancing. The rest of the group tries to hang on somewhere between living to die and dying to live.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021201100 +0000" stop="20261021210000 +0000">
         <title>The Walking Dead</title>
@@ -27316,9 +27336,24 @@ make itself known with dramatic effect</desc>
         <desc>Concerned for their safety, the group makes a plan - one that Hershel disagrees with adamantly. He makes it clear the group is fine to stay for now, but not indefinitely.</desc>
         <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021210000 +0000" stop="20261021214900 +0000">
+        <title>The Walking Dead</title>
+        <desc>Concerned for their safety, the group makes a plan - one that Hershel disagrees with adamantly. He makes it clear the group is fine to stay for now, but not indefinitely.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021214900 +0000" stop="20261021223900 +0000">
         <title>The Walking Dead</title>
         <desc>Glenn, the only one breaking barriers between both groups, knows far too much for his comfort level. Meanwhile, Daryl finds a sign of life and in his delirium, tries to make it back to the farm alive.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021214900 +0000" stop="20261021223900 +0000">
+        <title>The Walking Dead</title>
+        <desc>Glenn, the only one breaking barriers between both groups, knows far too much for his comfort level. Meanwhile, Daryl finds a sign of life and in his delirium, tries to make it back to the farm alive.</desc>
+        <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021223900 +0000" stop="20261021232900 +0000">
+        <title>The Walking Dead</title>
+        <desc>Secrets are told and secrets are revealed. Hershel refuses to acknowledge the world's new reality, Andrea comes out of her shell, and everyone is becoming more and more aware that 'everything is food for something'.</desc>
         <icon src="https://images.pluto.tv/series/6a79936e1b0eb41a7ec1173f/tile_1786352495464.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a1ea2d1eddc28f7681e518e" start="20261021223900 +0000" stop="20261021232900 +0000">
@@ -27578,8 +27613,8 @@ make itself known with dramatic effect</desc>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261021200000 +0000" stop="20261021204400 +0000">
         <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
+        <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65b14aae0cb1a100087a216e" start="20261021204400 +0000" stop="20261021211300 +0000">
         <title>Boxing</title>
@@ -33064,6 +33099,11 @@ documentaries…</desc>
         <desc>In the dark about each other's true identity, two undercover agents (Denzel Washington, Mark Wahlberg) from competing bureaus go on the run together after an attempt to infiltrate a drug cartel goes haywire.</desc>
         <icon src="https://images.pluto.tv/series/686ee6e2a53444ef2acb3d0f/tile_1762945422540.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6401d85a49839300087b116c" start="20261022030300 +0000" stop="20261022044000 +0000">
+        <title>Rambo: Last Blood</title>
+        <desc>War veteran John Rambo tries to find some semblance of peace by raising horses on a ranch in Arizona. But when a vicious Mexican cartel kidnaps a teenage girl, Rambo embarks on a bloody and personal quest to rescue her and punish those responsible.</desc>
+        <icon src="https://images.pluto.tv/series/66dfa17e22dfe9001378e952/tile_1753470333045.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="65031534d545e9000881ed10" start="20261021220000 +0000" stop="20261021234700 +0000">
         <title>And Soon the Darkness</title>
         <desc>A cyclist on holiday in Argentina enlists the aid of an American ex-pat to help find her missing friend.</desc>
@@ -33686,7 +33726,7 @@ trying to get his attention.</desc>
     <programme channel="655b7cbb2c46f300086f0afa" start="20261022035000 +0000" stop="20261022050000 +0000">
         <title>Tony The Tornado Drago</title>
         <desc>Live Snooker 900, the new fast and exciting version of the game featuring many of the game’s legendary players in weekly competitions.</desc>
-        <icon src="https://images.pluto.tv/series/6929c9af0c94b060784f0fe3/tile_1792545277611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6929c9af0c94b060784f0fe3/tile_1792555962031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="65a6a7a00c7ff50008cba07b" start="20261021221405 +0000" stop="20261021230627 +0000">
         <title>True Justice</title>
@@ -39398,7 +39438,7 @@ Monday mornings.</desc>
     <programme channel="655b7cbb2c46f300086f0afa" start="20261022035000 +0000" stop="20261022050000 +0000">
         <title>Tony The Tornado Drago</title>
         <desc>Live Snooker 900, the new fast and exciting version of the game featuring many of the game’s legendary players in weekly competitions.</desc>
-        <icon src="https://images.pluto.tv/series/6929c9af0c94b060784f0fe3/tile_1792545277611.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <icon src="https://images.pluto.tv/series/6929c9af0c94b060784f0fe3/tile_1792555962031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655b7cbb2c46f300086f0afa" start="20261022050000 +0000" stop="20261022070000 +0000">
         <title>Pluto TV Snooker 900</title>
